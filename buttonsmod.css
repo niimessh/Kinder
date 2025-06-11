@@ -1,0 +1,108 @@
+.products-button{
+    background-color: #5ea4ff;
+    color: #FBF3E1;
+    border:none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.8s;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Loved by the King;
+    text-align: center;
+}
+.menu-button{
+    background-color: #F3400E; 
+    color: white;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.8s;
+    transition: box-shadow 0.8s;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin-top:10px;
+    margin-left: 10px;
+    font-family:Shadows Into Light;
+}
+.menu-button:hover{
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+}
+.products-button:hover{
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+}
+.menu-button:hover{
+    padding-top: 23;
+    padding-bottom: 23;
+    padding-left: 35; 
+    padding-right: 35;
+}
+.menu-button:hover {
+    background-color: #FECF47;
+    color:#F3400E;
+}
+.menu-button:active{
+    opacity: 0.7;
+}
+.products-button:hover
+{
+    background-color: #FECF47; 
+    color: #5ea4ff;
+}
+.products-button:active{
+    opacity: 0.7;
+}
+.cname{
+    font-size: 75px;
+    text-align: center;
+    color: #F3400E;
+    margin-bottom: 0px;
+}
+.kblack{
+    color:#000000;
+}
+.tagline{
+    font-size: 14px;
+    text-align: center;
+    font-family:Caveat;
+    color: #F3400E;
+    margin-top: 0px;
+    margin-bottom:100px;
+}
+.moreinfo{
+    font-size: 10px;
+    font-family:Grape Nuts;
+    text-align: center;
+}
+.clickhereul{
+    text-decoration: underline;
+}
+.clickhereul:hover{
+    cursor: pointer;
+}
+.text-care {
+    text-align: center;
+    font-size: 20px;
+    line-height 40px;
+    font-family:Caveat;
+}
+p{
+margin-bottom 15px;
+margin-top:15px;
+font-family: Mynerve;
+font-size: 18px;
+text-align: center;
+}
+.spanex{
+    color: #F3400E;
+    margin-right: 5px;
+}
+.spanex:hover{
+    text-decoration: underline;
+}
+.spanex:hover{
+    cursor: pointer;
+}
